@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · mahesh-011-vk</sub></p>
+<p><sub>MAHESH S</sub></p>
 <h1>MAHESH S</h1>
 <h2>AIML ENGINEER</h2>
 <p>AI/ML Engineer | GenAI, LLMs, RAG &amp; Agentic AI | Python, PyTorch, FastAPI, React | Building intelligent AI products</p>
