@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · mahesh-011-vk</sub></p>
 <h1>MAHESH S</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>AIML ENGINEER</h2>
 <p>AI/ML Engineer | GenAI, LLMs, RAG &amp; Agentic AI | Python, PyTorch, FastAPI, React | Building intelligent AI products</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Bengalore</sub></p>
