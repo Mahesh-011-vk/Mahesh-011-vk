@@ -1,129 +1,18 @@
-<div align="center">
+# 💫 About Me:
+👋 Hi, I'm Mahesh<br><br>🤖 I'm currently working on AI/ML, Generative AI, and intelligent software projects<br>🤝 I'm looking to collaborate on AI/ML, Data Science, and open-source projects<br>🚀 I'm looking for help with building and deploying production-ready AI applications<br>🌱 I'm currently learning Software Engineering, Advanced AI, and scalable system development<br>💬 Ask me about Python, Machine Learning, Deep Learning, Generative AI, SQL, Power BI, and Android Development<br>⚡ Fun fact: I enjoy turning real-world problems into practical AI-powered solutions
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>MAHESH S</sub></p>
-<h1>MAHESH S</h1>
-<h2>AIML ENGINEER</h2>
-<p>AI/ML Engineer | GenAI, LLMs, RAG &amp; Agentic AI | Python, PyTorch, FastAPI, React | Building intelligent AI products</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Bengalore</sub></p>
-<p><a href="https://github.com/mahesh-011-vk">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/273003251?u=583f66d4ade9ffa150d980c836248d6fc3ce74c3&amp;v=4" width="180" alt="MAHESH S GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
 
-<h2>What teams can evaluate quickly</h2>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahesh-s-318367203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viratmahesh11@gmail.com) 
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · Kotlin · HTML</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>56 contributions · 9 active days</p></td>
-</tr>
-</table>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mahesh-011-vk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mahesh-011-vk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mahesh-011-vk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><sub>AI/ML Engineer | GenAI, LLMs, RAG &amp; Agentic AI | Python, PyTorch, FastAPI, React | Building intelligent AI products</sub></p>
+---
+[![](https://komarev.com/ghpvc/?username=Mahesh-011-vk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>56</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mahesh-011-vk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273003251%3Fu%3D583f66d4ade9ffa150d980c836248d6fc3ce74c3%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=mahesh-011-vk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273003251%3Fu%3D583f66d4ade9ffa150d980c836248d6fc3ce74c3%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="MAHESH S GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mahesh-011-vk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273003251%3Fu%3D583f66d4ade9ffa150d980c836248d6fc3ce74c3%26v%3D4&repos=mahesh-011-vk%2FMahesh-011-vk%2Cmahesh-011-vk%2FPORTFOLIO%2Cmahesh-011-vk%2FPROMPT-FORGE%2Cmahesh-011-vk%2FULTRON-VA&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=mahesh-011-vk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273003251%3Fu%3D583f66d4ade9ffa150d980c836248d6fc3ce74c3%26v%3D4&repos=mahesh-011-vk%2FMahesh-011-vk%2Cmahesh-011-vk%2FPORTFOLIO%2Cmahesh-011-vk%2FPROMPT-FORGE%2Cmahesh-011-vk%2FULTRON-VA&v=recruiter-projects-1&mode=dark" width="100%" alt="MAHESH S selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Mahesh-011-vk/Mahesh-011-vk">Mahesh-011-vk</a></h3>
-<p>A selected public project.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Mahesh-011-vk/Mahesh-011-vk">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Mahesh-011-vk/PORTFOLIO">PORTFOLIO</a></h3><p>AI/ML Engineer &amp; GenAI Developer specializing in LLMs, RAG pipelines, Agentic AI, and deep learning. Showcasing applied machine learning models, multi</p><p><sub>CSS · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Mahesh-011-vk/PROMPT-FORGE">PROMPT-FORGE</a></h3><p>Advanced Python-powered AI prompt engineering platform for generating, optimizing, evaluating, and managing multi-modal prompts with GenAI, RAG, agent</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Mahesh-011-vk/ULTRON-VA">ULTRON-VA</a></h3><p>ULTRON VA — AI-powered voice assistant with speech recognition, local Llama 3.2 AI, web commands, weather, and a futuristic 3D interface.</p><p><sub>CSS · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mahesh-011-vk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273003251%3Fu%3D583f66d4ade9ffa150d980c836248d6fc3ce74c3%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=mahesh-011-vk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273003251%3Fu%3D583f66d4ade9ffa150d980c836248d6fc3ce74c3%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="MAHESH S technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>45% of public code</sub></td>
-<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>23% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>11% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>8% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>8% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mahesh-011-vk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273003251%3Fu%3D583f66d4ade9ffa150d980c836248d6fc3ce74c3%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=mahesh-011-vk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273003251%3Fu%3D583f66d4ade9ffa150d980c836248d6fc3ce74c3%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="MAHESH S contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/mahesh-011-vk">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>MAHESH S · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-<!--
-**Mahesh-011-vk/Mahesh-011-vk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
