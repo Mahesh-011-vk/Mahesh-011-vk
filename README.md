@@ -4,7 +4,7 @@ AI/ML Engineer passionate about building intelligent, real-world solutions with 
 
 
 # 💫 About Me:
-I'm currently working on AI/ML, Generative AI, and intelligent software projects<br>🤝 I'm looking to collaborate on AI/ML, Data Science, and open-source projects<br>🚀 I'm looking for help with building and deploying production-ready AI applications<br>🌱 I'm currently learning Software Engineering, Advanced AI, and scalable system development<br>💬 Ask me about Python, Machine Learning, Deep Learning, Generative AI, SQL, Power BI, and Android Development<br>⚡ Fun fact: I enjoy turning real-world problems into practical AI-powered solutions.
+I'm currently working on AI/ML, Generative AI, and intelligent software projects<br>🤝 I'm looking to collaborate on AI/ML, Data Science, and open-source projects<br>🚀 I'm looking for help with building and deploying production-ready AI applications<br>🌱 I'm currently learning Software Engineering, Advanced AI, and scalable system development<br>💬 Ask me about Python, Machine Learning, Deep Learning, Generative AI, SQL, Excel,Power BI, and Android Development<br>⚡ Fun fact: I enjoy turning real-world problems into practical AI-powered solutions.
 
 
 ## 🌐 Socials:
